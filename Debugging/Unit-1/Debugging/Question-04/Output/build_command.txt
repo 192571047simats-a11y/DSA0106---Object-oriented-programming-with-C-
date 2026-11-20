@@ -1,0 +1,1 @@
+g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/DSA0106_CPP_Debugging_Assessments/Unit-1/Debugging/Question-04/Source_Code/main.cpp -o /mnt/data/DSA0106_CPP_Debugging_Assessments/Unit-1/Debugging/Question-04/program.exe
