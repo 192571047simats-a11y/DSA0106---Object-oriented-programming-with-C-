@@ -1,0 +1,4 @@
+/mnt/data/DSA0106_CPP_Internal_Assignments/Assignment-1/Task04/Source_Code/main.cpp: In function ‘int main()’:
+/mnt/data/DSA0106_CPP_Internal_Assignments/Assignment-1/Task04/Source_Code/main.cpp:8:18: warning: comparison of integer expressions of different signedness: ‘int’ and ‘unsigned int’ [-Wsign-compare]
+    8 |     std::cout<<(s<u ? "s < u" : "s >= u")<<'\n';
+      |                 ~^~
