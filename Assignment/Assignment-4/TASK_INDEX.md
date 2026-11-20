@@ -1,0 +1,6 @@
+- [Task01](./Task01/) – Class Design Review
+- [Task02](./Task02/) – From Requirement to Hierarchy
+- [Task03](./Task03/) – Constructors in Derived Classes and Member Classes
+- [Task04](./Task04/) – Pointers to Derived Classes: Forensics
+- [Task05](./Task05/) – Pointers to Objects and the this Pointer
+- [Task06](./Task06/) – Design Challenge
