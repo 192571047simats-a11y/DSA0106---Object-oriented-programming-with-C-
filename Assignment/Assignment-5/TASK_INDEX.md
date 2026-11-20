@@ -1,0 +1,9 @@
+- [Task01](./Task01/) – A1 – Design the Polymorphic Bill Hierarchy
+- [Task02](./Task02/) – A2 – Understand Runtime Binding
+- [Task03](./Task03/) – A3 – Design with Abstract Classes
+- [Task04](./Task04/) – A4 – Design the Exception Strategy
+- [Task05](./Task05/) – A5 – Design Recovery and Rethrowing
+- [Task06](./Task06/) – B1 – Implement and Validate the Polymorphic Billing
+- [Task07](./Task07/) – B2 – Engineer Error Conditions
+- [Task08](./Task08/) – B3 – Virtual Functions vs switch vs Exceptions: The Cost
+- [Task09](./Task09/) – B4 – Final Engineering Decision
