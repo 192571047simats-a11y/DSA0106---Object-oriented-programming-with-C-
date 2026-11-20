@@ -1,0 +1,3 @@
+Cube: 125
+Cylinder: 197.92
+Cuboid: 30
