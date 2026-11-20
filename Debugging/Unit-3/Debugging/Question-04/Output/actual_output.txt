@@ -1,0 +1,4 @@
+Prefix result: 11
+Current: 11
+Postfix old value: 11
+After postfix: 12

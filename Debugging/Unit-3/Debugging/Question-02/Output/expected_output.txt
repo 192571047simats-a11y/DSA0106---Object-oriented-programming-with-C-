@@ -1,0 +1,6 @@
+Allocated 5 samples
+Deep copy allocated 5 samples
+Processing sample 0: 0
+Released 5 samples
+Back in main, sample 0: 0
+Released 5 samples
