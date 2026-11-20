@@ -1,0 +1,12 @@
+- [Task01](./Task01/) – Understand the Problem and Identify the Objects
+- [Task02](./Task02/) – Tokens, Keywords, Identifiers and Constants
+- [Task03](./Task03/) – Choose Data Types and Check Type Compatibility
+- [Task04](./Task04/) – Control Implicit Conversions
+- [Task05](./Task05/) – Write Correct Expressions with the Right Precedence
+- [Task06](./Task06/) – Design the Control Structures
+- [Task07](./Task07/) – From Procedural to Object-Oriented
+- [Task08](./Task08/) – Read and Print Data Safely
+- [Task09](./Task09/) – Implement and Test the Fare Logic
+- [Task10](./Task10/) – Compare Expectations with Execution
+- [Task11](./Task11/) – Recommend and Defend the Final Design
+- [Task12](./Task12/) – Re-evaluate and Adapt the Design
