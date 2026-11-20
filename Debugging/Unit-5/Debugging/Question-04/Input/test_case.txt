@@ -1,0 +1,1 @@
+This corrected example uses the fixed sample values specified in the question bank. No interactive input is required for this test.

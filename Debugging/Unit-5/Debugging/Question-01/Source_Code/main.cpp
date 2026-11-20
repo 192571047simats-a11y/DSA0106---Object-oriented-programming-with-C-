@@ -1,0 +1,4 @@
+#include <iostream>
+class Shape {public:Shape(){std::cout<<"Shape created.\n";}virtual ~Shape(){std::cout<<"Shape destroyed.\n";}virtual void render()const{std::cout<<"Rendering generic shape.\n";}};
+class ComplexPolygon:public Shape {double* vertices;int count;public:explicit ComplexPolygon(int n):vertices(new double[n*2]{}),count(n){std::cout<<"Allocated "<<count<<" vertices on heap.\n";}~ComplexPolygon()override{std::cout<<"Deallocating polygon vertex heap memory.\n";delete[] vertices;}void render()const override{std::cout<<"Rendering polygon with "<<count<<" vertices.\n";}};
+int main(){Shape* p=new ComplexPolygon(1000);p->render();delete p;}
