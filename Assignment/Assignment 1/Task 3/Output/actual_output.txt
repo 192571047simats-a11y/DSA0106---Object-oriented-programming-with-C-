@@ -1,0 +1,6 @@
+sizeof(int)=4
+sizeof(long long)=8
+INT_MAX=2147483647
+journeys=3000000
+balancePaise=125000
+peak=true
